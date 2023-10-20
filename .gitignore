@@ -1,0 +1,12 @@
+# Ignore the usual files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignore the Mac OS X files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes

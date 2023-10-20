@@ -24,6 +24,8 @@ This repository is designed to hold and serve static assets for our projects, ho
 
 4. **Deploy to Netlify**
 
+   Netlify will now automatically deploy changes pushed to this repository.
+
    If you haven't already set up continuous deployment:
 
    - Log in to your Netlify account.
@@ -31,8 +33,6 @@ This repository is designed to hold and serve static assets for our projects, ho
    - Connect to GitHub and select this repository.
    - Configure build settings if needed (not required for simple static assets).
    - Click "Deploy site".
-
-   Netlify will now automatically deploy changes pushed to this repository.
 
 ## Directory Structure
 
@@ -60,4 +60,4 @@ This repository is open-source. See [LICENSE](./LICENSE) for details.
 
 ## Contact
 
-For questions or concerns, reach out to [your-email@example.com](mailto:your-email@example.com).
+For questions or concerns, reach out to [alfonso.adiego@gmail.com](mailto:alfonso.adiego@gmail.com).

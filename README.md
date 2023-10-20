@@ -46,10 +46,8 @@ This repository is designed to hold and serve static assets for our projects, ho
 Once deployed, your assets can be accessed via the Netlify subdomain:
 
 ```
-https://your-netlify-subdomain.netlify.app/images/your-image.png
+https://alfonsoadiego-static-assets.netlify.app/images/your-image.png
 ```
-
-Replace `your-netlify-subdomain` with your actual Netlify subdomain and `your-image.png` with your actual file path.
 
 ## Contributing
 

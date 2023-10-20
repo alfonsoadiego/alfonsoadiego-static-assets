@@ -7,7 +7,7 @@ This repository is designed to hold and serve static assets for our projects, ho
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/static-assets-repo.git
+   git clone https://github.com/alfonsoadiego/alfonsoadiego-static-assets
    ```
 
 2. **Add your static asset**
@@ -37,6 +37,7 @@ This repository is designed to hold and serve static assets for our projects, ho
 ## Directory Structure
 
 - `/images`: For image assets.
+- `/common`: For articles headers
 - `/styles`: For stylesheets (CSS).
 - `/scripts`: For JavaScript files.
 
